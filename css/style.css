@@ -226,7 +226,6 @@ main .featured-part .featured-title p{
 
 }
 .discount-right{
-    padding-left: 180px;
     text-align: center
 }
 .discount-right h3{
@@ -270,9 +269,7 @@ main .featured-part .featured-title p{
 .discount-btn{
     padding-top: 20px;
 }
-.discount-left{
-    padding-right: 180px;
-}
+
 /* DISCOUNT-PART-STYLE(END) */
 
 /* INSTA-PART-STYLE(START) */
